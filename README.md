@@ -10,7 +10,7 @@ DumTransmitter được dùng để truyền tín hiệu đến bộ thu tín hi
 
 ## [DumReciever - Bộ thu tín hiệu](/DumReciever/README.md)
 
-DumTransmitter được dùng để nhận tín hiệu từ bộ truyền tín hiệu DumTransmitter để điều khiển thuyền DumShip và xe DumCar hoặc điều khiển nhờ vào việc ghép nối với mạch phát RF 6 kênh 2.4Ghz L24YK-TXH Transmitter.
+DumReciever được dùng để nhận tín hiệu từ bộ truyền tín hiệu DumTransmitter để điều khiển thuyền DumShip và xe DumCar hoặc điều khiển nhờ vào việc ghép nối với mạch phát RF 6 kênh 2.4Ghz L24YK-TXH Transmitter.
 
 - [Link sản phẩm](https://hshop.vn/mach-phat-rf-6-kenh-2-4ghz-l24yk-txh)
 
