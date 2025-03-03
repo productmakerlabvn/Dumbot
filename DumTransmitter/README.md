@@ -6,6 +6,10 @@
 
 - Điện áp sử dụng: 3VDC (2xAA pin)
 
+## Sơ đồ kết nối
+
+![](/image/TX_SCH.png)
+
 ## Hướng dẫn sử dụng
 
 ![](/image/TX_mtTruoc_Describe.jpg)
