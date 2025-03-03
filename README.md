@@ -24,6 +24,6 @@ Thuyền robot sử dụng 2 động cơ riêng biệt (2WD), tích hợp còi v
 
 # Thông tin liên hệ
 
-- Facebook: MakerLab RnD
+- Facebook: [MakerLab RnD](https://www.facebook.com/makerlabvn)
 - SĐT & Zalo: 0964.787.150
 - Giờ làm việc: Thứ 2 - Thứ 7: 9h00 đến 17h00
