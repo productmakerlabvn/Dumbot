@@ -4,7 +4,7 @@
 
 ## [DumController - Bộ điều khiển](/DumController/README.md)
 
-DumController được điều khiển thuyền DumShip và xe DumCar.
+DumController được dùng để điều khiển thuyền DumShip và xe DumCar. Bao gồm mạch phát (TX) và mạch thu (RX).
 
 ## DumCar - Xe điều khiển từ xa
 
