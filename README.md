@@ -2,7 +2,7 @@
 
 ![](/image/ca2.jpg)
 
-## [DumController - Bộ điều khiển](/DumTransmitter/README.md)
+## [DumController - Bộ điều khiển](/DumController/README.md)
 
 DumController được điều khiển thuyền DumShip và xe DumCar.
 
