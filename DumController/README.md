@@ -6,7 +6,7 @@
 
 ### Mạch TX
 
-- Điện áp sử dụng: 3VDC (2xAA pin)
+- Điện áp sử dụng: 3VDC (2x pin AA)
 
 ### Mạch RX
 
